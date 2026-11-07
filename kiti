@@ -1,3 +1,8 @@
+--[[
+    я хз есть тут стиллер или нет, сам не тестил
+    Используйте на свое усмотрение, я не несу ответствености что у вас все спиздели
+    Переопубликовано 5post
+--]]
 local getEnvironment = getfenv
 local luaNext = next
 local luaSelect = select
