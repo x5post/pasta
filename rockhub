@@ -1,3 +1,8 @@
+--[[
+    я хз есть тут стиллер или нет, сам не тестил
+    Используйте на свое усмотрение, я не несу ответствености что у вас все спиздели
+    Переопубликовано 5post
+--]]
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
 local UserInputService = game:GetService("UserInputService")
